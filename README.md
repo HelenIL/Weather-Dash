@@ -4,4 +4,11 @@ A weather dashboard utilizing OpenWeatherMap with form inputs allowing a user to
 
 Link to deployed page: <a href="https://helenil.github.io/Weather-Dash/">here</a>
 
-<img src="./Assets/weatherdash.png" alt="weather dashboard">
+<img src="./Assets/weatherdash.png" alt="weather dashboard"><br><br>
+<h2>Technologies used:</h2><br>
+HTML, CSS, JAVASCRIPT, AJAX<br><br>
+<h2>Credits:</h2>
+Helen Lindberg<br>
+Email: helenilindberg@yahoo.com<br>
+GitHub Profile: <a href="https://github.com/HelenIL">https://github.com/HelenIL</a><br><br>
+<img src="Assets/NYC.png" alt="new york city weather forecast">
